@@ -1,4 +1,4 @@
-#Hacker News with React
+# Hacker News with React
 
 Instructions:
 
